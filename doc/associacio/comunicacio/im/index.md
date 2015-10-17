@@ -6,7 +6,20 @@ title: "Associació Guifibages: Canals de comunicació: Missatgeria Instantània
 # Jabber
 Mitjà de comunicació preferit dins l'associació.
 
-Contactes:
+## Proveïdors de servei jabber
+
+### Gratuïts
+
+- [http://www.jabber.org/](http://www.jabber.org/)
+- [http://www.jabberes.org/](http://www.jabberes.org/)
+
+
+### Pagament
+
+- [http://www.fsfe.org/](http://www.fsfe.org/)
+- [http://www.fastmail.com/](http://www.fastmail.com/)
+
+## Contactes:
 
 - [Francisco del Águila][paco]: fco.del.aguila@jabberes.org
 - [Ignacio Torres][itorres]: i@itorres.net
