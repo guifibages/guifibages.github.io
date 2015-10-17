@@ -8,11 +8,12 @@ Mitjà de comunicació preferit dins l'associació.
 
 ## Proveïdors de servei jabber
 
+Hi ha multiples proveïdors públics de servei. A continuació detallem els que fem servir altres membres de l'associació. Hi ha una llista molt complerta a [https://list.jabber.at/](https://list.jabber.at/).
+
 ### Gratuïts
 
 - [http://www.jabber.org/](http://www.jabber.org/)
 - [http://www.jabberes.org/](http://www.jabberes.org/)
-
 
 ### Pagament
 
