@@ -8,6 +8,8 @@ Actualment, som una associació que treballa en format cooperatiu, ajudant a qua
 
 A banda, realitzem tasques de millora i actualització de la xarxa i treballem col·laborativament amb tots els altres [proveïdors de servei](https://guifi.net/ca/node/2426/suppliers) que operen al Bages per tal de garantir un bon funcionament de la xarxa.
 
+Sota teniu més informació de com connectar a la xarxa i com ser socis de l'associació. 
+
 
 ## Connexió
 
