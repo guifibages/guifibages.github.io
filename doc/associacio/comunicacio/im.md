@@ -17,6 +17,7 @@ Mitjà de comunicació preferit dins l'associació.
 
 - [Francisco del Águila][paco]: fco.del.aguila@jabberes.org
 - [Ignacio Torres][itorres]: i@itorres.net
+- [Xavier Martinez][xevimartinez]: xavier.martinez@jabber.zon
 
 [paco]: xmpp:fco.del.aguila@jabberes.org
 [itorres]: xmpp:i@itorres.net
