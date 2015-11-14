@@ -12,4 +12,4 @@ Adreça de la Junta: [junta@guifibages.net](mailto:junta@guifibages.net)
 ###guifi.net
 Llista usuaris [guifi.net](https://guifi.net): [guifi-users@llistes.guifi.net](mailto:guifi-users@llistes.guifi.net).
 
-Llista administradors [guifi.net](https://guifi.net) al Bages: [guifi-bagesadmin@llistes.guifi.net](ailto:guifi-bagesadmins@llistes.guifi.net)
+Llista administradors [guifi.net](https://guifi.net) al Bages: [guifi-bagesadmin@llistes.guifi.net](mailto:guifi-bagesadmins@llistes.guifi.net)
