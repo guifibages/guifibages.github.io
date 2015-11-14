@@ -41,4 +41,4 @@ Recomenem muntar l'antena al mastil de l'antena de televisió i com més amunt m
 
 La potència de l'antena s'ha posar sempre al mínim que permeti una bona connexió. Configurar l'antena per a què emeti a potències excessives, no únicament perjudica als altres usuaris, sinó que pot empitjorar notablement la qualitat de la nostra connexió.
 
-Si tens dubtes, posa't en [contacte](/doc/Contacte/) amb nosaltres o bé envia la teva pregunta a la [llista d'usuaris del Bages](mailto:guifi-bagesusers@llistes.guifi.net) i segur que d'altres usuaris t'ajudaran a connectar-te a la xarxa.  
+Si tens dubtes, posa't en [contacte](/doc/contacte/) amb nosaltres o bé envia la teva pregunta a la [llista d'usuaris del Bages](mailto:guifi-bagesusers@llistes.guifi.net) i segur que d'altres usuaris t'ajudaran a connectar-te a la xarxa.  
