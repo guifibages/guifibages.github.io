@@ -9,7 +9,7 @@ Llista dels socis: [guifi-bagesassociacio@llistes.guifi.net](mailto:guifi-bagesa
 
 Adreça de la Junta: [junta@guifibages.net](mailto:junta@guifibages.net)
 
-###guifi.net al Bages
-Llista usuaris [guifi.net](https://guifi.net) al Bages: [guifi-users@llistes.guifi.net](mailto:guifi-users@llistes.guifi.net).
+###guifi.net
+Llista usuaris [guifi.net](https://guifi.net): [guifi-users@llistes.guifi.net](mailto:guifi-users@llistes.guifi.net).
 
-Llista administradors [guifi.net](https://guifi.net) al Bages: [guifi-bagesadmin@llistes.guifi.net]
+Llista administradors [guifi.net](https://guifi.net) al Bages: [guifi-bagesadmin@llistes.guifi.net](ailto:guifi-bagesadmins@llistes.guifi.net)
