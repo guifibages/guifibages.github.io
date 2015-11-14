@@ -3,4 +3,8 @@ layout: default
 title: "Com contactar amb Guifibages?"
 ---
 ##Com contactar amb guifibages?
+
 A continuació us detallem totes les formes de contacte a Guifibages
+
+###Correu
+
