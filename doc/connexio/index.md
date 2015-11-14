@@ -8,13 +8,10 @@ title: "Connexió a la xarxa Guifi"
 ### 1.Tenir accés a la teulada
 Cal instalar una antena especial (Ubiquiti 5Ghz-mimo), per connectar a [guifi.net](http://guifi.net) (veure models recomanats a sota). Normalment s'instala al màstil de l'antena de TV.Si vius en un bloc de pisos, pots comentar-ho amb el president del teu bloc. Teoricament i llei en mà no es pot negar a instalar l'antena ja que guifi.net es un projecte obert de cooperació. 
 
-Si tens algun dubte pots [contactar](/contacte) amb nosaltres. 
-
-
 ### 2. Donar d'alta del node a guifi.net
 El primer pas es donar l'alta el teu nou node dins [guifi.net](http://guifi.net). En el video tutorial de sota s'explica com. Cal donar-se d'alta a la web [guifi.net](http://guifi.net) i també explica com crear el node.
 
-Si tens algun dubte pots seguir el tutorial de [http://guifi.net/trespassos](http://guifi.net/trespasos) per connectar a guifinet amb 3 pasos. Posat en [contacte](/contacte) amb nosaltres si no te'n surts.
+Si tens algun dubte pots seguir el tutorial de [http://guifi.net/trespassos](http://guifi.net/trespasos) per connectar a guifinet amb 3 pasos.
 
 <iframe width="390" height="293" src="http://www.youtube.com/embed/2MYtQ5hFvnk" frameborder="0" allowfullscreen></iframe>
 
@@ -44,4 +41,4 @@ Recomenem muntar l'antena al mastil de l'antena de televisió i com més amunt m
 
 La potència de l'antena s'ha posar sempre al mínim que permeti una bona connexió. Configurar l'antena per a què emeti a potències excessives, no únicament perjudica als altres usuaris, sinó que pot empitjorar notablement la qualitat de la nostra connexió.
 
-Si tens dubtes, envia la teva pregunta a la [llista d'usuaris del Bages](mailto:guifi-bagesusers@llistes.guifi.net) i segur que d'altres usuaris t'ajudaran a connectar-te a la xarxa.  
+Si tens dubtes, posa't en [contacte](/doc/Contacte/) amb nosaltres o bé envia la teva pregunta a la [llista d'usuaris del Bages](mailto:guifi-bagesusers@llistes.guifi.net) i segur que d'altres usuaris t'ajudaran a connectar-te a la xarxa.  
