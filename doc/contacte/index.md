@@ -28,4 +28,4 @@ Escriu a aquesta llista si vols contactar amb els administradors de la xarxa al 
 
 * Fundació guifi.net: [mailto:fundacio@guifi.net](mailto:fundacio@guifi.net)
 
-Escriu a aquesta llista per contactar la [ Fundació guifi.net](http://fundacio.guifi.net). La Fundació és l'entitat reguladora de la xarxa, posa't-hi en contacte per comentar qualsevol problema amb un operador o vulneració greu dels [Comuns XOLN](https://guifi.net/ComunsXOLN).
+Escriu a aquesta llista per contactar la [ Fundació guifi.net](http://fundacio.guifi.net). La Fundació és l'entitat reguladora de la xarxa, posa't-hi en contacte per reportar qualsevol vulneració greu dels [Comuns XOLN](https://guifi.net/ComunsXOLN).
