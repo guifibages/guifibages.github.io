@@ -3,33 +3,17 @@ layout: default
 title: "Connexió a la xarxa Guifi"
 ---
 
-<h3><span class="title_num">1</span> Tenir accés a la teulada</h3>
-<p>Cal instalar una antena especial (Ubiquiti 5Ghz-mimo), per connectar a <a href="http://guifi.net" target="_blank">guifi.net</a> (veure models recomanats a sota). 
-	<p>Normalment s'instala al màstil de l'antena de TV.</p>
-	<p>Si vius en un bloc de pisos, pots comentar-ho amb el president del teu bloc. Teoricament i llei en mà no es pot negar a instalar l'antena ja que guifi.net es un projecte obert de cooperació.</p>
-    <p>Si tens algun dubte <a href="/contacte/">contacta amb de guifibages</a></p>
-								</div>
-  							    <div class="fix"></div>
-                                </div><!-- /.entry -->
-                                </div><!-- /.post -->
+## 1.Tenir accés a la teulada
+Cal instalar una antena especial (Ubiquiti 5Ghz-mimo), per connectar a [guifi.net](http://guifi.net) (veure models recomanats a sota). Normalment s'instala al màstil de l'antena de TV.Si vius en un bloc de pisos, pots comentar-ho amb el president del teu bloc. Teoricament i llei en mà no es pot negar a instalar l'antena ja que guifi.net es un projecte obert de cooperació. Si tens algun dubte pots [contactar](/contacte)amb nosaltres. 
 
-					            <div class="post-144 page type-page status-publish hentry drop-shadow lifted post_mod">
-                                    <div class="entry">
-                                        <div class="page_col1">
-                	                        <h3><span class="title_num">2</span> Donar d'alta del node a guifi.net</h3>
-                                            <p>El primer pas es donar l'alta el teu nou node dins <a href="http://www.guifi.net/" target="_blank">guifi.net</a></p>
-									        <p>En el video tutorial de la dreta s'explica com. Cal donar-se d'alta a la web <a href="http://www.guifi.net/" target="_blank">guifi.net</a> i també explica com crear el node.</p>
-                                            <p>Si tens algun dubte pots seguir el tutorial de <a href="http://guifi.net/trespasos" target="_blank">connectar a guifinet amb 3 pasos</a> o</p>
-                                            <p>Posat en contacte amb <a href="/contacte/">els administradors de guifibages</acbrianes></p>
-                                        </div>
-								        <div class="page_col2"><iframe width="390" height="293" src="http://www.youtube.com/embed/2MYtQ5hFvnk" frameborder="0" allowfullscreen></iframe></div>
-  							            <div class="fix"></div>
-                                    </div><!-- /.entry -->
-                                </div><!-- /.post -->
-                                
-                                
-                                <div class="post-144 page type-page status-publish hentry drop-shadow lifted post_mod">
-                                    <div class="entry">
+
+## 2. Donar d'alta del node a guifi.net
+El primer pas es donar l'alta el teu nou node dins [guifi.net](http://guifi.net). En el video tutorial de sota s'explica com. Cal donar-se d'alta a la web [guifi.net](http://guifi.net) i també explica com crear el node.
+
+Si tens algun dubte pots seguir el tutorial de [http://guifi.net/trespassos](http://guifi.net/trespasos) per connectar a guifinet amb 3 pasos. Posat en contacte amb [els administradors de guifibages](/contacte) si tens algun dubte.                                      </div>
+
+
+<iframe width="390" height="293" src="http://www.youtube.com/embed/2MYtQ5hFvnk" frameborder="0" allowfullscreen></iframe>
                 	                        <h3><span class="title_num">3</span> Visibilitat directe a un Supernode</h3>
 									        <p>Cal asegurar que tens visibilitat directe des d'on vols muntar l'antena fins el supernode al que vols connectar.</p>
                                             <p>Si no hi ha visió directe, si hi ha algun obstacle, ja sigui edifici, arbres, o turó, el més segur es que no funcionará.</p>
