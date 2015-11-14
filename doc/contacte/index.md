@@ -5,5 +5,5 @@ title: "Com contactar amb Guifibages?"
 ##Com contactar amb guifibages?
 
 ###Correu
-Llista usuaris [guifi.net](https://guifi.net) al Bages:[guifi-users@llistes.guifi.net](mailto:guifi-users@llistes.guifi.net)
-
+Llista usuaris [guifi.net](https://guifi.net) al Bages: [guifi-users@llistes.guifi.net](mailto:guifi-users@llistes.guifi.net)
+Llista administradors [guifi.net](https://guifi.net) al Bages: [guifi-bagesadmin@llistes.guifi.net]
