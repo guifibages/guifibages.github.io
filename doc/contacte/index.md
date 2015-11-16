@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Com contactar amb nossltres?"
+title: "Com contactar amb nosaltres?"
 ---
 ##Com contactar amb nosaltres?
 
