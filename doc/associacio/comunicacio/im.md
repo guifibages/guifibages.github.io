@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Associació Guifibages: Canals de comunicació: Missatgeria Instantània"
+title: " Servei de Missatgeria Instantània"
 ---
 
 # Jabber
