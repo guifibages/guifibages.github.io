@@ -16,6 +16,7 @@ body {
   line-height: 1.5;
   font-weight: 300;
   background-color: #fdfdfd;
+  margin-bottom: 10px;
 }
 
 a         { color: #2a7ae2; text-decoration: none; }
