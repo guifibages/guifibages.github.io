@@ -12,6 +12,7 @@ Sota teniu més informació de com connectar a la xarxa i com ser socis de l'ass
 
 Per contactar amb nosaltres visiteu la seccio [Com contactar?](/doc/contacte/)
 
+Per a conèixer millor el què fem i els serveis que oferim sobre la xarxa visiteu l'[índex de pàgines](/siteindex/)
 
 ## Connexió
 
