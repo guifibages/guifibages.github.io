@@ -3,7 +3,7 @@ layout: default
 title: "Connexió a Internet mitjançant Proxy"
 ---
 
-##1. Què és la connexió a través de proxy?
+## 1. Què és la connexió a través de proxy?
 
 Un proxy és un ordinador que fa de frontera entre nosaltres i internet. Així doncs, quan utilitzem una connexió a internet mitjançant proxy, en realitat ens estem connectant a un ordinador intermediari que és qui es connecta a internet i ens ensenya les pàgines que li hem demanat. 
 
@@ -12,13 +12,13 @@ D'aquesta manera, es pot donar accés únicament als usuaris registrats i també
 
 Hi ha nombrosos servidor proxys a guifi.net i estan federats entre sí, de manera que tots els usuaris registrats i autoritzats poden connectar-se a qualsevol del proxys. Podeu veure tots els de la zona Bages [aquí](https://guifi.net/ca/node/2426/view/services)
 
-##2. Obtenir un usuari i contrasenya per a fer servir els proxys federats
+## 2. Obtenir un usuari i contrasenya per a fer servir els proxys federats
 
 En el moment de donar d’[alta el nostre node](http://http://guifibages.cat/doc/connexio/) a l’aplicació web de guifi.net, o posteriorment si volem, podem afegir un usuari de proxy vinculat a aquest node. Només cal fer click la pestanya usuaris, després al botó afegir usuari i complimentar les dades.
 
 Si no ets tu qui has afegit el node o no veus la pestanya usuaris, posa't en [contacte](http://guifibages.cat/doc/contacte/) amb nosaltres i t'ajudarem. 
 
-##3. Com configurar el PROXY de Guifibages
+## 3. Com configurar el PROXY de Guifibages
 
 Els proxys recomanats actualment a la zona Bages són: 
 
