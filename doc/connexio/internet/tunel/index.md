@@ -12,7 +12,7 @@ Des de guifibages recomanem utilitzar els aparells [Mikrotik](http://www.mikroti
 
 * [R941-2NDTC](https://www.landashop.com/mikrotik-main/mikrotik-routers/mikrotik-rb-r941-2ndtc.html): Inmillorable relació qualitat-preu en un router amb wifi i quatre ports ethernet. No té PoE. 
 * [R951UI-2ND](https://www.landashop.com/mikrotik-main/mikrotik-routers/mikrotik-rb-r951ui-2nd.html): Com l'anterior però amb un port PoE per alimentar l'antena. 
-* [MAP-2N](https://www.landashop.com/mikrotik-main/mikrotik-wireless-interior/mikrotik-rb-map-2n.html): Per als qui vulguin un aparell molt petit i compatec. 
+* [MAP-2N](https://www.landashop.com/mikrotik-main/mikrotik-wireless-interior/mikrotik-rb-map-2n.html): Per als qui vulguin un aparell molt petit i compacte. 
 
 ## 3. Configuració Antena
 
