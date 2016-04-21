@@ -10,9 +10,9 @@ Si et soci de guifibages, pots accedir a la connexió compartida entre tots els 
 
 Des de guifibages recomanem utilitzar els aparells [Mikrotik](http://www.mikrotik.com) per la seva excel·lent relació qualitat preu. A més, la configuració és idèntica en la majoria d'ells, fet que simplifica enormement la seva instal·lació i posada en marxa. A continuació teniu els més recomanats però podeu escollir el què més us interessi de tota la gama mikrotik: 
 
-*[R941-2NDTC](https://www.landashop.com/mikrotik-main/mikrotik-routers/mikrotik-rb-r941-2ndtc.html): Inmillorable relació qualitat-preu en un router amb wifi i quatre ports ethernet. No té PoE. 
-*[R951UI-2ND](https://www.landashop.com/mikrotik-main/mikrotik-routers/mikrotik-rb-r951ui-2nd.html): Com l'anterior però amb un port PoE per alimentar l'antena. 
-*[MAP-2N](https://www.landashop.com/mikrotik-main/mikrotik-wireless-interior/mikrotik-rb-map-2n.html): Per als qui vulguin un aparell molt petit i compatec. 
+* [R941-2NDTC](https://www.landashop.com/mikrotik-main/mikrotik-routers/mikrotik-rb-r941-2ndtc.html): Inmillorable relació qualitat-preu en un router amb wifi i quatre ports ethernet. No té PoE. 
+* [R951UI-2ND](https://www.landashop.com/mikrotik-main/mikrotik-routers/mikrotik-rb-r951ui-2nd.html): Com l'anterior però amb un port PoE per alimentar l'antena. 
+* [MAP-2N](https://www.landashop.com/mikrotik-main/mikrotik-wireless-interior/mikrotik-rb-map-2n.html): Per als qui vulguin un aparell molt petit i compatec. 
 
 ## 3. Configuració Antena
 
