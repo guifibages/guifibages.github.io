@@ -29,9 +29,9 @@ Els proxys recomanats actualment a la zona Bages són:
 
 Per configurar el proxy en el vostre navegador ho podeu fer seguint les següents instruccions: 
 
-* Firefox:[http://es.wikihow.com/configurar-un-proxy-en-Firefox]
-* Chrome: [http://www.ehowenespanol.com/servidor-proxy-google-chrome-como_20369/]
-* Internet Explorer: [http://windows.microsoft.com/es-es/windows/change-internet-explorer-proxy-server-settings#1TC=windows-7]
+* [Firefox](http://es.wikihow.com/configurar-un-proxy-en-Firefox)
+* [Chrome](http://www.ehowenespanol.com/servidor-proxy-google-chrome-como_20369/)
+* [Internet Explorer](http://windows.microsoft.com/es-es/windows/change-internet-explorer-proxy-server-settings#1TC=windows-7)
 
 Has de tenir en compte que hauràs de configurar el proxy en tots els dispositius que vulguis connectar a internet, incloent també mòbils i tauletes.
 
