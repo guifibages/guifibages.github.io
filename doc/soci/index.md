@@ -7,7 +7,7 @@ title: "Com fer-se soci"
 
 Si t'interessa la tasca que fem i vols col·laborar amb nosaltres fen-te soci de Guifibages, és molt senzill. 
 
-Primer de tot, cal que disposis de l'aval de dos associats que t'apadrinin i que responguin per a tu dins l'associació. És interessant també que, en cas que vulguis accedir a la connexió compartida a internet, aquests socis avaladors et facin tot el suport tecnològic que necessitis.
+Primer de tot, cal que disposis de l'aval de dos associats que t'apadrinin i que responguin per a tu dins l'associació. És interessant també que, en cas que vulguis accedir a la connexió compartida a internet, aquests socis avaladors et donin tot el suport tecnològic que necessitis.
 
 Un cop obtinguts aquests dos avals, cal que els socis enviïn un correu a la llista [guifi-bagesassociacio@llistes.guifi.net](mailto:guifi-baegsassociacio@llistes.guifi.net) presentan-te i donan-te el seu suport. 
 
