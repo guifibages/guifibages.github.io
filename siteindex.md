@@ -12,7 +12,7 @@ menu: true
 {% endif %}
 {% endfor %}
 
-# Fitxers
+# Documentació
 
 {% for file in site.static_files %}
 {% assign prefix = file.path | truncate: 6, '' | remove_first: '/'%}
