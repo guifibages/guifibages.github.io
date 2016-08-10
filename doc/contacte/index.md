@@ -20,7 +20,7 @@ Escriu a aquesta llista per contactar amb la junta de l'associacio.
 ### guifi.net
 * Llista usuaris [guifi.net](https://guifi.net): [guifi-users@llistes.guifi.net](mailto:guifi-users@llistes.guifi.net).
 
-Escriu a aquesta llista si ets usuari de la xarxa guifi.net i vols reportar incidències o fer qualsevol altre comentari relacionat amb la xarxa.
+Escriu a aquesta llista si vols reportar incidències o fer qualsevol altre comentari relacionat amb la xarxa [guifi.net](https://guifi.net).
 
 * Llista administradors [guifi.net](https://guifi.net) al Bages: [guifi-bagesadmin@llistes.guifi.net](mailto:guifi-bagesadmins@llistes.guifi.net)
 
