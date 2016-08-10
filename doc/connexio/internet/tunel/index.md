@@ -16,4 +16,6 @@ Des de guifibages recomanem utilitzar els aparells [Mikrotik](http://www.mikroti
 
 ## 3. Configuració Antena
 
-Hi ha dues formes de configurar l'antena, en mode router o en mode bridge. La configuració del router dependrà de com configureu l'antena i, per temes de simplicitat, des de guifibages recomanem la configuració en mode router, assignant la IP 
+Hi ha dues formes de configurar l'antena, en mode router o en mode bridge. La configuració del router dependrà de com configureu l'antena i, per temes de simplicitat, des de guifibages recomanem la configuració en mode router, assignant la IP que t'ha assignat la web de guifi a l'antena. 
+
+Si necessites més ajuda, no dubtis a demanar-la a través de la secció [contacte](http://guifibages.cat/doc/contacte/)
