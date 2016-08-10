@@ -2,9 +2,9 @@
 layout: default
 title: "Com contactar amb nosaltres?"
 ---
-##Com contactar amb nosaltres?
+## Com contactar amb nosaltres?
 
-###Associacio d'Usuaris Guifibages
+### Associacio d'Usuaris Guifibages
 * Informació: [info@guifibages.cat](mailto:info@guifibages.cat).
 
 Escriu aqui si vols contactar amb guifibages i no ets soci.
@@ -17,7 +17,7 @@ Escriu aquí si ja ets soci i vols comentar incidències, presentar nous socis, 
 
 Escriu a aquesta llista per contactar amb la junta de l'associacio.
 
-###guifi.net
+### guifi.net
 * Llista usuaris [guifi.net](https://guifi.net): [guifi-users@llistes.guifi.net](mailto:guifi-users@llistes.guifi.net).
 
 Escriu a aquesta llista si no ets soci però ets usuari de la xarxa guifi.net i vols reportar incidències o fer qualsevol altre comentari relacionat amb la xarxa.
