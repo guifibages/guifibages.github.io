@@ -11,6 +11,6 @@ Primer de tot, cal que disposis de l'aval de dos associats que t'apadrinin i que
 
 Un cop obtinguts aquests dos avals, cal que els socis enviïn un correu a la llista [guifi-bagesassociacio@llistes.guifi.net](mailto:guifi-baegsassociacio@llistes.guifi.net) presentan-te i donan-te el seu suport. 
 
-Finalment, cal que omplis el [formulari d'inscripció](/files/FormulariAltaSoci.pdf) i l'enviïs a l'adreça [secretari@guifibages.net](mailto:secretari@guifibages.net). Si tot és correcte, el secretari es posarà en contacte amb tu per facilitar-te les dades d'accés.
+Finalment, cal que omplis el [formulari d'inscripció](/files/associacio/FormulariAltaSoci.pdf) i l'enviïs a l'adreça [secretari@guifibages.net](mailto:secretari@guifibages.net). Si tot és correcte, el secretari es posarà en contacte amb tu per facilitar-te les dades d'accés.
 
 Per qualsevol dubte, ens pots esciure un correu a [info@guifibages.net](mailto:info@guifibages.net)
