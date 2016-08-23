@@ -6,7 +6,7 @@ title: "Connexió a la xarxa Guifi"
 ## Com connectar a la xarxa [guifi.net](http://guifi.net)?
 
 ### 1.Tenir accés a la teulada
-Cal instalar una antena especial, per connectar a [guifi.net](http://guifi.net) (veure models recomanats a sota). Normalment s'instala al màstil de l'antena de TV.Si vius en un bloc de pisos, pots comentar-ho amb el president del teu bloc. Teoricament i llei en mà no es pot negar a instalar l'antena ja que guifi.net es un projecte obert de cooperació. 
+Cal instalar una antena especial, per connectar a [guifi.net](http://guifi.net) (veure models recomanats a sota). Normalment s'instala al màstil de l'antena de TV. Si vius en un bloc de pisos, pots comentar-ho amb el president del teu bloc.
 
 ### 2. Donar d'alta del node a guifi.net
 El primer pas es donar l'alta el teu nou node dins [guifi.net](http://guifi.net). En el video tutorial de sota s'explica com. Cal donar-se d'alta a la web [guifi.net](http://guifi.net) i també explica com crear el node.
