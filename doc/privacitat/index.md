@@ -3,13 +3,13 @@ layout: default
 title: "Política de Privacitat"
 ---
 
-## Política de Privacitat i Protecció de Dades
+# Política de Privacitat i Protecció de Dades
 
 D'acord amb el que estableix el Reglament (UE) 2016/679 del Parlament Europeu i del Consell de 27 d'abril de 2016, relatiu a la protecció de les persones físiques pel que fa al tractament de dades personals i a la lliure circulació d'aquestes dades, així com a la resta de normativa aplicable en matèria de protecció de dades, L'Associació d'Usuaris Guifibages (en endavant, Guifibages) informa que les dades personals dels seus socis seran tractades de conformitat amb els principis de licitud, lleialtat i transparència, limitació de la finalitat i termini de conservació, minimització de dades, exactitud, integritat i confidencialitat.
 
 Gufiibages es compromet al compliment de la seva obligació de secret de les dades de caràcter personal i del seu deure de guardar-les, i adoptarà les mesures necessàries per evitar la seva alteració, pèrdua, tractament o accés no autoritzat, tenint en compte, en tot cas, de l'estat de la tecnologia. L'informem que podrà exercir els drets d'accés, rectificació, cancel·lació i oposició establerts en la Llei a través d’un e-mail a la direcció rgpd@guifibages.net.
 
-# Responsable del tractament
+### Responsable del tractament
 El responsable del tractament de les dades és l'Associació d'Usuaris Guifibages, amb CIF G65589004 i domicili social a la Plaça de la Verdura 22 de Sallent (Barcelona), inscrita al registre d'associacións amb el número 46113-J/1 
 
 Contacte: info@guifibages.net
@@ -17,18 +17,18 @@ Contacte per a la protecció de dades: rgpd@guifibages.net
 
 Amb la finalitat de donar compliment a les necessitats relatives a la gestió de donacions les dades facilitades també es cediran a la Fundació guifi.net, amb CIF ES-G64918212 i domicili social al Mas l'Esperança de Gurb (Barcelona), inscrita al Registre de Fundacions de la Generalitat de Catalunya amb el número 2550.
 
-# Finalitat del tractament
+### Finalitat del tractament
 
 A Guifibages tractem les dades del soci per a les finalitats administratives i legals pròpies del funcionament de l'associació. En el cas d'aquells socis que accedeixin a la connexió compartida també utilitzem les dades per les necessitat tècniques, administratives i legals necessàries per accedir a aquesta connexió. Si Guifibages requerís el tractament ulterior de les seves dades personals per a un fi diferent als recollits en la present Política de Privacitat, s'informarà prèviament als socis d'aquesta circumstància i de les finalitats previstes per a aquest tractament.
 
-# Cessió de les dades a tercers
+### Cessió de les dades a tercers
 
 Com es menciona anteriorment, amb la finalitat de donar compliment a les necessitats relatives a la gestió de donacions les dades facilitades també es cediran a la Fundació guifi.net, amb CIF ES-G64918212 i domicili social al Mas l'Esperança de Gurb (Barcelona), inscrita al Registre de Fundacions de la Generalitat de Catalunya amb el número 2550. Per exercitar els drets d'accès, rectificació, cancel·lació i oposició cal enviar la sol·licitud a l'adreça: Fundació guifi·net C/ Jaume I "el Conqueridor", 3, 4t - 1ª 08500, Vic
 mitjançant comunicació escrita i fotocòpia del DNI.
 
 Guifibages també es reserva el dret de cedir les dades a d'altres entitats i autoritats públiques quan la legislació vigent ho requereixi. 
 
-# Quant temps conservarem les dades
+### Quant temps conservarem les dades
 
 En compliment del principi de limitació del termini de conservació, les dades recollides seran tractades únicament i exclusivament durant el temps necessari i per a les finalitats per a les quals s'hagin recollit en cada moment.
 
@@ -38,7 +38,7 @@ Dades de soci: les dades seran conservades mentre el soci estigui donat d'alta m
 
 Dades de connexió a internet: les dades seran conservades durant un termini de 12 mesos, per la mateixa obligació que s’esmenta al punt anterior.  
 
-# Drets del soci 
+### Drets del soci 
 
 De conformitat amb el que estableix la normativa aplicable, Guifibages informa al socis que tenen els següents drets derivats de la normativa aplicable:
 
@@ -62,7 +62,7 @@ Agència Espanyola de Protecció de Dades: C / Jorge Juan, 6 - 28001 Madrid. Tel
 Autoritat Catalana de Protecció de Dades: C / Rosselló, 214, Esc. A, 1r 1a
 08008 Barcelona. Tel. 93 552 78 00 Fax. 93 552 78 30  
 
-# Obtenció de les dades
+### Obtenció de les dades
 
 • Dades de soci: Dades per identificar i contactar el soci, així com les dades bancàries necessàries per transmetre els rebuts corresponents facilitades sempre pel soci de forma voluntària. 
 • Dades de connexió: Dades de connexió i desconnexió d'internet obtingudes de forma automàtica a partir dels mitjans tecnològics necessaris.
