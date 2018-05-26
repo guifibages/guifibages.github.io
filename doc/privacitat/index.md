@@ -3,7 +3,7 @@ layout: default
 title: "Política de Privacitat"
 ---
 
-## Política de Privadesa i Protecció de Dades
+## Política de Privacitat i Protecció de Dades
 
 En compliment del que estableix la Llei Orgànica 15/1999 de Protecció de Dades de Caràcter Personal i la seva normativa de desenvolupament, l'Associació d'Usuaris Guifibages informa als seus socis que les dades facilitades seran incorporades a un fitxer automatitzat de dades de caràcter personal creat sota la responsabilitat de l'Associació d'Usuaris Guifibages amb la finalitat de comunicació i tasques administratives pròpies de l'Associació. 
 
