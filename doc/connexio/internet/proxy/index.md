@@ -3,6 +3,8 @@ layout: default
 title: "Connexió a Internet mitjançant Proxy"
 ---
 
+## ATENCIÓ: DEPRECATED!! en aquests moments des de l'associació no oferim el servei de proxy ni ens consta que en quedi cap d'operatiu al Bages
+
 ## 1. Què és la connexió a través de proxy?
 
 Un proxy és un ordinador que fa de frontera entre nosaltres i internet. Així doncs, quan utilitzem una connexió a internet mitjançant proxy, en realitat ens estem connectant a un ordinador intermediari que és qui es connecta a internet i ens ensenya les pàgines que li hem demanat. 
