@@ -3,9 +3,9 @@ layout: default
 ---
 ## Guifibages amplia la seva zona d'actuació
 
-En la última assemblea de l'Associació d'Usuaris Guifibages vam decidir que la nostra activitat no quedes circumscrita a la zona del Bages, com fins ara, sinó a qualsevol àrea de l'estat lloc on puguem ser útils. En certa manera volem ser Associació d'usuaris Guifi :)
+En la darrera assemblea de l'Associació d'Usuaris Guifibages vam decidir que la nostra activitat no quedés circumscrita a la zona del Bages, com fins ara, sinó a qualsevol àrea de l'estat lloc on puguem ser útils. En certa manera volem ser Associació d'usuaris Guifi. :)
 
-I que fem a guifibages que pugui ser útil per a gent d'altres llocs?
+I què fem a guifibages que pugui ser útil per a gent d'altres llocs?
 
 1-. Som una associació sense ànim de lucre:
 
@@ -21,14 +21,14 @@ Alguns de bastant frikis, hem tingut (i tenim) alguns serveis col·laboratius. S
     
 4-. Som operadors vinculats a la fundació guifi.net:
 
-La fundació guifi.net és el nostre majorista. Tenim gran vinculació amb ells i usem la seva infraestructura (carriers redundats, servidors...). Si necessiteu fer ús d'alguns serveis vinculats a internet (VPN's, hostings...) nosaltres podem oferir fer ús d'aquestes infraestructures per a que gestioneu allò que us faci falta.
+La fundació guifi.net és el nostre majorista. Tenim una gran vinculació amb ells i usem la seva infraestructura (carriers redundats, servidors...). Si necessiteu fer ús d'alguns serveis vinculats a internet (VPN's, hostings...) nosaltres podem oferir fer ús d'aquestes infraestructures per tal que gestioneu allò que us faci falta.
     
 5-. Som coneixement i cultura lliure:
 
-Des de la fundació guifibages promou la cultura i programari lliure, hem acumulat molta experiència en programari lliure (i també del que no ho és :( ) i ens agrada compartir-lo. També hem acumulat coneixement en el desplegament i manteniment de xarxes wifi comunitàries. Si sou o voleu ser un/una activista solitari de guifi.net aquí teniu un grup on compartir esforç i experiència.
+Des de la fundació, guifibages promou la cultura i programari lliure, hem acumulat molta experiència en programari lliure (i també del que no ho és :( ) i ens agrada compartir-lo. També hem acumulat coneixement en el desplegament i manteniment de xarxes wifi comunitàries. Si sou o voleu ser un/una activista solitari de guifi.net aquí teniu un grup on compartir esforç i experiència.
     
 6-. Som promotors de desplegament de fibra òptica (FO):
 
 Hem desplegat una xarxa de FO en un barri de Manresa. Ho hem fet en format de xarxa de comuns, pagada pels propis usuaris. No ha estat fàcil però ens n'hem sortit. Si voleu desplegar FO al vostre territori però no sabeu com fer-ho us podem ajudar!
     
-Però també hi ha lletra petita, res del que fem ha de suposar una pèrdua patrimonial per a l'associació, per a això cada una de les propostes l'evaluarem com a cas particular. També com a associació sense treballadors depenem exclusivament del treball voluntari que fem els socis que volem, per tant no espereu cap garantia de servei.
+Però també hi ha lletra petita, res del que fem ha de suposar una pèrdua patrimonial per a l'associació, i és per això que cada una de les propostes ens cal avaluar-la com a cas particular. També com a associació sense treballadors depenem exclusivament del treball voluntari que fem els socis que volem, per tant no espereu cap garantia de servei.
