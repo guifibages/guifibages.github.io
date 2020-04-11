@@ -2,7 +2,7 @@
 
 Cada arxiu index és l'equivalent de la web.
 
-Així per modificar http://guifibages.cat/doc/connexio/ hem d'editar l'arxiu https://github.com/guifibages/guifibages.github.io/blob/master/doc/connexio/index.html
+Així per modificar http://guifibages.cat/doc/connexio/ hem d'editar l'arxiu https://github.com/guifibages/guifibages.github.io/tree/master/doc/connexio
 
 Per modificar http://guifibages.cat/ editarem l'arxiu https://github.com/guifibages/guifibages.github.io/blob/master/index.md
 
