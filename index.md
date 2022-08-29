@@ -12,6 +12,6 @@ Si vols fer-te soci, visita la pàgina [Com fer-se soci?](/doc/soci/)
 
 Per contactar amb nosaltres visiteu la seccio [Com contactar?](/doc/contacte/)
 
-Si voleu connectar amb la xarxa guifi.net, visteu la pàgina [Connexió a la xarxa guifi.net](/doc/connexio/)
+Si voleu connectar amb la xarxa guifi.net, visteu la pàgina [Connexió i tarifes a la xarxa guifi.net](/doc/connexio/)
 
 Per a conèixer millor el què fem i els serveis que oferim sobre la xarxa visiteu l'[Índex de pàgines](/siteindex/)
