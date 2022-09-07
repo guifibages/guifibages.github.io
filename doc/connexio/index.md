@@ -5,11 +5,11 @@ title: "Connexió a la xarxa Guifi"
 
 ## Tarifes
 
-Fibra guifi.net:  15 €/mes. Alta 1500€.
+Fibra guifi.net:  9 €/mes. Alta 1500€.
 
-Fibra bitstream:  33 €/mes. Alta 150€.
+Fibra bitstream:  27 €/mes. Alta 150€.
 
-Ràdio: 15 €/mes
+Ràdio: 11 €/mes
 
 
 ## Soci
