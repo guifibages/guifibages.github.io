@@ -3,6 +3,10 @@ layout: default
 title: "Connexió a la xarxa Guifi"
 ---
 
+* TOC
+{:toc}
+
+
 ## Tarifes
 
 Fibra guifi.net:  9 €/mes. Alta 1500€.
@@ -74,6 +78,13 @@ Packs de mòbil, TV, etc. No oferim packs de serveis. Sol se més econòmic cont
 L'objectiu de l'associació és que els usuaris aprenguin com *funciona* Internet. I en particular com els *arriba* l'Internet de Guifibages fins a casa seva. Així doncs podràs demanar tota la informació tècnica que vulguis als administradors de la xarxa; a banda que la documentació tècnica de la xarxa guifi.net ja és pública a [guifi.net](http://guifi.net).
 
 Pel que fa a la gestió de l'associació, cada any hi ha com a mínim una assemblea amb tots els socis on s'informa i es decideixen totes les qüestions de l'associació.
+
+
+### Sense inspeccionar ni filtrar les teves dades
+
+No inspeccionem què circula per la xarxa; de fet no ens interessa per res saber què consultes a Internet. La xarxa és neutral i permetem tot el trànsit en igualtat de condicions, no filtrem cap paquet.
+
+Per a accedir a la resta d'Internet, la Fundació [guifi.net](http://guifi.net) ens ofereix el servei en el Punt Neutre d'Internet a Catalunya [CATNIX](https://www.catnix.net/xarxes-connectades/).
 
 
 

@@ -403,3 +403,14 @@ a:visited { color: #205caa; }
     margin: 0 0 15px; }
 
 }
+
+
+
+
+/* Table of contents */
+/* ----------------------------------------------------------*/
+#markdown-toc{
+  float: right;
+  width: 50%;
+  background-color: lightyellow;
+}
