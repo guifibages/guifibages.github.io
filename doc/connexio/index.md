@@ -9,12 +9,13 @@ title: "Connexió a la xarxa Guifi"
 
 ## Tarifes
 
-Fibra guifi.net:  9 €/mes. Alta 1500€.
+**Fibra guifi.net:  9 €/mes.** Alta 1500€.
 
-Fibra bitstream:  27 €/mes. Alta 150€.
+**Fibra bitstream:  27 €/mes.** Alta 181.5€.
 
-Ràdio: 11 €/mes
+**Ràdio: 11 €/mes**
 
+(Tots els preus inclouen IVA. Totes les tarfies són sense permanència)
 
 ## Soci
 
@@ -73,7 +74,7 @@ Telèfon fix. No oferim aquest servei. Però et podem explicar com configurar-lo
 Packs de mòbil, TV, etc. No oferim packs de serveis. Sol se més econòmic contractar-los per separat.
 
 
-### Tota la informació  tècnica i de gestió
+### Tota la informació tècnica i de gestió
 
 L'objectiu de l'associació és que els usuaris aprenguin com *funciona* Internet. I en particular com els *arriba* l'Internet de Guifibages fins a casa seva. Així doncs podràs demanar tota la informació tècnica que vulguis als administradors de la xarxa; a banda que la documentació tècnica de la xarxa guifi.net ja és pública a [guifi.net](http://guifi.net).
 
