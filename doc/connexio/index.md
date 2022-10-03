@@ -15,7 +15,7 @@ title: "Connexió a la xarxa Guifi"
 
 **Ràdio: 11 €/mes**
 
-(Tots els preus inclouen IVA. Totes les tarfies són sense permanència)
+(Tots els preus inclouen IVA. Totes les tarifes són sense permanència)
 
 ## Soci
 
