@@ -1,0 +1,10 @@
+.title {
+  color: $black;
+  font-size: 42px;
+  line-height: 1.2;
+  // text-align: center;
+
+  @include media-breakpoint-up(lg) {
+    font-size: 46px;
+  }
+}

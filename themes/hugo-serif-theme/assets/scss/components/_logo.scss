@@ -1,0 +1,13 @@
+.logo {
+  display: block;
+  height: 37px;
+  margin-right: 16px;
+  /*@include media-breakpoint-up(sm) {
+    display: block;
+  }*/
+  a {
+    display: block;
+  }
+  font-weight: bold;
+  font-size: 24px;
+}
