@@ -81,14 +81,14 @@ theme = "hugo-serif-theme"
 
   # Footer Menu
   [[menu.footer]]
+    name = "Política de privacitat"
+    url = "/privacitat/"
+      weight = 1
+
+  [[menu.footer]]
     name = "Contacte"
     url = "/contacte/"
       weight = 2
-
-  [[menu.footer]]
-    name = "Política de privacitat"
-    url = "/privacitat/"
-      weight = 5
 
 [markup]
   [markup.goldmark]
