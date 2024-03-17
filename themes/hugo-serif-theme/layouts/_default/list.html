@@ -20,7 +20,7 @@
 </div>
 {{*/}}
 
-{{ with .Content }}
+{{ if isset . "Content" }}
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <h1 class="title">{{.Title}}</h1>
   <div class="content">{{.Content}}</div>
