@@ -13,8 +13,8 @@ L'Associació d'Usuaris Guifibages som una entitat sense ànim de lucre que té 
 
 A banda, realitzem tasques de millora i actualització de la xarxa i treballem col·laborativament amb tots els altres [proveïdors de servei](https://guifi.net/ca/node/2426/suppliers) que operen al Bages per tal de garantir un bon funcionament de la xarxa.
 
-Si t'interessa la tasca que fem i vols col·laborar amb nosaltres, **[fes-te soci](/soci/)**.
+Si t'interessa la tasca que fem i vols col·laborar amb nosaltres, [fes-te soci](/soci/).
 
 ## Vols connectar a internet a través nostre?
 
-A l'apartat [tarifes](/connexio/) trobaràs els detalls dels diferents serveis que oferim. I si tens qualsevol dubte, pots escriure'ns a [info@guifibages.cat](mailto:info@guifibages.cat), estarem encantats d'ajudar-te.
+A l'apartat [tarifes](/tarifes/) trobaràs els detalls dels diferents serveis que oferim. I si tens qualsevol dubte, pots escriure'ns a [info@guifibages.cat](mailto:info@guifibages.cat), estarem encantats d'ajudar-te.

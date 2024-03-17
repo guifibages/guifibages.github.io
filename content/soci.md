@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "Com fer-se soci?"
+aliases:
+- /doc/soci
+- /doc/soci/
 ---
 
 Si t'interessa la tasca que fem i vols col·laborar amb nosaltres fen-te soci de Guifibages, és molt senzill.

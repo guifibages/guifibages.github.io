@@ -1,7 +1,7 @@
 <div class='header'>
   <div class="container">
     <div class="logo">
-      <a href="{{ .Site.BaseURL }}">{{ .Site.Params.logo.alt }}</a>
+      <a href="{{ .Site.BaseURL }}">{{ .Site.Params.logo.alt | safeHTML }}</a>
     </div>
     {{ partial "main-menu.html" . }}
 

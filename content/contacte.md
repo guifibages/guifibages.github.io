@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "Com contactar amb nosaltres?"
+aliases:
+- /doc/contacte
+- /doc/contacte/
 ---
 
 ## Associacio d'Usuaris Guifibages

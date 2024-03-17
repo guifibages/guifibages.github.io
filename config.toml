@@ -23,7 +23,7 @@ theme = "hugo-serif-theme"
     # mobile_height = "36px"
     # desktop = "images/logo/guifibages_logo.png"
     # desktop_height = "36px"
-    alt = "guifibages"
+    alt = "guifi<span style='color: #e30612'>bages</span>"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
@@ -54,7 +54,7 @@ theme = "hugo-serif-theme"
   # Main Menu
   [[menu.main]]
     name = "Tarifes d'internet"
-    url = "/connexio/"
+    url = "/tarifes/"
       weight = 1
 
   [[menu.main]]
@@ -70,7 +70,7 @@ theme = "hugo-serif-theme"
   # Footer Menu
   [[menu.footer]]
     name = "Tarifes d'internet"
-    url = "/connexio/"
+    url = "/tarifes/"
       weight = 1
 
   [[menu.footer]]

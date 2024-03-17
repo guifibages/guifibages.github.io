@@ -1,12 +1,15 @@
 ---
 layout: default
 title: "Tarifes d'internet"
+aliases:
+- /doc/connexio
+- /doc/connexio/
 ---
 
 <div style="text-align: center">
   <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
-    <div style="border: 4px solid #286cff; margin: 10px;">
-      <div style="background: #286cff; font-size: 16px; font-weight: bold; color: #fff; padding: 2px; height: 25px; text-transform: uppercase;">
+    <div style="border: 4px solid #e30612; margin: 10px;">
+      <div style="background: #e30612; font-size: 16px; font-weight: bold; color: #fff; padding: 2px; height: 25px; text-transform: uppercase;">
         Més popular!
       </div>
       <div style="display: block; width: 280px; padding: 23px;">
@@ -111,7 +114,7 @@ Pel que fa a la gestió de l'associació, cada any hi ha com a mínim una assemb
 
 ### Xarxa de ràdio
 
-I allà on no arriba la fibra de cap operador podem oferir la [connexió a la xarxa ràdio guifi.net](/connexio/radio). Tot i que com a darrer recurs, atès que la xarxa de ràdio té unes prestacions molt inferiors a la xarxa de fibra.
+I allà on no arriba la fibra de cap operador podem oferir la [connexió a la xarxa ràdio guifi.net](/tarifes/radio/). Tot i que com a darrer recurs, atès que la xarxa de ràdio té unes prestacions molt inferiors a la xarxa de fibra.
 
 
 ## Preguntes freqüents

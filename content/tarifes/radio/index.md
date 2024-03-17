@@ -1,6 +1,9 @@
 ---
 layout: default
 title: "Connexió a la xarxa ràdio guifi.net?"
+aliases:
+- /doc/connexio/radio
+- /doc/connexio/radio/
 ---
 
 ## 1. Tenir accés a la teulada
