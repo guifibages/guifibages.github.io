@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Guifibages amplia la seva zona d'actuació"
+aliases:
+- /doc/associacio/comunicacio/ampliacioguifibages/
 ---
 
 En la darrera assemblea de l'Associació d'Usuaris Guifibages vam decidir que la nostra activitat no quedés circumscrita a la zona del Bages, com fins ara, sinó a qualsevol àrea de l'estat lloc on puguem ser útils. En certa manera volem ser Associació d'usuaris Guifi. :)

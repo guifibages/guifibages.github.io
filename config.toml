@@ -65,11 +65,6 @@ theme = "hugo-serif-theme"
       weight = 2
 
   [[menu.main]]
-    name = "Guies"
-    url = "/guies/"
-      weight = 3
-
-  [[menu.main]]
     name = "Comunicats"
     url = "/comunicats/"
       weight = 4
@@ -81,14 +76,19 @@ theme = "hugo-serif-theme"
 
   # Footer Menu
   [[menu.footer]]
+    name = "Guies tècniques"
+    url = "/guies/"
+      weight = 1
+
+  [[menu.footer]]
     name = "Política de privacitat"
     url = "/privacitat/"
-      weight = 1
+      weight = 2
 
   [[menu.footer]]
     name = "Contacte"
     url = "/contacte/"
-      weight = 2
+      weight = 3
 
 [markup]
   [markup.goldmark]

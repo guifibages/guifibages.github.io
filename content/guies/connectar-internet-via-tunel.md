@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Connexió a Internet compartida de l'Associació"
+aliases:
+- /doc/connexio/internet/tunel/
 ---
 ## 1. Introducció
 

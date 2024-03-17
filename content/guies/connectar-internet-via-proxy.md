@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Connexió a Internet mitjançant Proxy"
+aliases:
+- /doc/connexio/internet/proxy/
 ---
 
 > **⚠️ En aquests moments des de l'associació no oferim el servei de proxy ni ens consta que en quedi cap d'operatiu al Bages**

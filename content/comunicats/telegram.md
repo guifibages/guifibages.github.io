@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Servei de Missatgeria Instantània"
+aliases:
+- /doc/associacio/comunicacio/im/
 ---
 
 ## Telegram
