@@ -23,6 +23,12 @@
       color: inherit;
     }
   }
+  .contact_info {
+    display: flex;
+  }
+  .contact_info > div {
+    margin: 0 10px ;
+  }
   .social {
     a:first-of-type {
       margin-left: -10px;

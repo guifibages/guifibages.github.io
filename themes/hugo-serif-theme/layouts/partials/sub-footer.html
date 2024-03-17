@@ -9,9 +9,19 @@
           {{ with .Site.Params.footer.copyright_text }}
             <div class="copyright">{{ . | safeHTML }}</div>
           {{ end }}
-          {{ with .Site.Params.footer.contact_info }}
-            <div class="contact_info">{{ . | safeHTML }}</div>
-          {{ end }}
+          <div class="contact_info">
+            {{ with .Site.Params.footer.twitter }}
+              <div>{{ . | safeHTML }}</div>
+            {{ end }}
+
+            {{ with .Site.Params.footer.github }}
+              <div>{{ . | safeHTML }}</div>
+            {{ end }}
+
+            {{ with .Site.Params.footer.contact_info }}
+              <div>{{ . | safeHTML }}</div>
+            {{ end }}
+          </div>
         </div>
       </div>
     </div>
