@@ -20,10 +20,10 @@
 </div>
 {{*/}}
 
-{{ if isset . "Content" }}
-<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
-  <h1 class="title">{{.Title}}</h1>
-  <div class="content">{{.Content}}</div>
+{{ if or .Title .Content }}
+<div class="container pt-6">
+  {{ with .Title }}<h1 class="title">{{.}}</h1>{{end}}
+  {{ with .Content }}<div class="content">{{.}}</div>{{end}}
 </div>
 {{ end }}
 
