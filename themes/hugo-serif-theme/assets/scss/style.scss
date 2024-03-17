@@ -7,7 +7,7 @@ $grey: {{ .Site.Params.colors.grey | default "#5C5A5A" }};
 
 // Fonts
 $font-family-base: {{ .Site.Params.fonts.base }}, Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: {{ .Site.Params.fonts.heading }}, serif, -apple-system;
+$font-family-heading: {{ .Site.Params.fonts.base }}, Helvetica, Arial, sans-serif, -apple-system;
 
 // Links
 $link-color: $primary;
