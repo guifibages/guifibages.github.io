@@ -65,25 +65,25 @@ theme = "hugo-serif-theme"
       weight = 2
 
   [[menu.main]]
+    name = "Guies"
+    url = "/guies/"
+      weight = 3
+
+  [[menu.main]]
+    name = "Comunicats"
+    url = "/comunicats/"
+      weight = 4
+
+  [[menu.main]]
     name = "Contacte"
     url = "/contacte/"
-      weight = 3
+      weight = 6
 
   # Footer Menu
   [[menu.footer]]
-    name = "Tarifes d'internet"
-    url = "/tarifes/"
-      weight = 1
-
-  [[menu.footer]]
-    name = "Fes-te soci"
-    url = "/soci/"
-      weight = 2
-
-  [[menu.footer]]
     name = "Contacte"
     url = "/contacte/"
-      weight = 3
+      weight = 2
 
   [[menu.footer]]
     name = "Política de privacitat"

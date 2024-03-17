@@ -8,6 +8,9 @@
   a {
     display: block;
   }
+  a:hover {
+    text-decoration: none;
+  }
   font-weight: bold;
   font-size: 24px;
 }

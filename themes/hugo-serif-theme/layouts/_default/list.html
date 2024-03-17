@@ -20,13 +20,14 @@
 </div>
 {{*/}}
 
-
+{{ with .Content }}
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <h1 class="title">{{.Title}}</h1>
   <div class="content">{{.Content}}</div>
 </div>
+{{ end }}
 
-{{/*}}
+
 <div class="container pt-6 pb-md-12">
   <div class="row">
     {{ range .Pages.ByWeight }}
@@ -34,5 +35,5 @@
     {{ end }}
   </div>
 </div>
-{{*/}}
+
 {{ end }}

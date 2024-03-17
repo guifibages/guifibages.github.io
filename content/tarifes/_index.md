@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Tarifes d'internet"
 aliases:
 - /doc/connexio
