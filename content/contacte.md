@@ -20,4 +20,6 @@ Si vols reportar incidències o fer qualsevol altre comentari relacionat amb la 
 
 Si vols contactar amb els administradors de la xarxa al Bages: [guifi-bagesadmin@llistes.guifi.net](mailto:guifi-bagesadmins@llistes.guifi.net).
 
-Per contactar amb la [Fundació guifi.net](http://fundacio.guifi.net), l'entitat reguladora de la xarxa: [mailto:fundacio@guifi.net](mailto:fundacio@guifi.net). Per reportar qualsevol vulneració greu dels [Comuns XOLN](https://guifi.net/ComunsXOLN).
+Per contactar amb la [Fundació guifi.net](http://fundacio.guifi.net), l'entitat reguladora de la xarxa: [fundacio@guifi.net](mailto:fundacio@guifi.net).
+
+Per reportar qualsevol vulneració greu dels [Comuns XOLN](https://guifi.net/ComunsXOLN).

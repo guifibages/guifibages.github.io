@@ -28,8 +28,8 @@ theme = "hugo-serif-theme"
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
     # google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap'
-    heading = "FreeSans"
-    base = "FreeSans"
+    # heading = "FreeSans"
+    # base = "FreeSans"
 
   [params.colors]
     primary = "#0f1626"

@@ -5,7 +5,6 @@ aliases:
 - /doc/connexio
 - /doc/connexio/
 ---
-
 <div style="text-align: center">
   <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
     <div style="border: 4px solid #e30612; margin: 10px;">
@@ -18,10 +17,10 @@ aliases:
         <br>
         <br>
         <ul style="list-style: none;">
-            <li>1000 Mbps simètrics</li>
-            <li>IP estàtica</li>
-            <li>Sense permanència</li>
-            <li>Tria router (opcional)</li>
+            <li style="margin-left: 0">1000 Mbps simètrics</li>
+            <li style="margin-left: 0">IP estàtica</li>
+            <li style="margin-left: 0">Sense permanència</li>
+            <li style="margin-left: 0">Tria router (opcional)</li>
         </ul>
         <br><small>Alta 181.5€. Inclou instal·lació i router. Velocitat fins a 1000 Mbps.</small>
         <br>
@@ -34,10 +33,10 @@ aliases:
         <br>
         <br>
         <ul style="list-style: none;">
-            <li>1000 Mbps simètrics</li>
-            <li>IP estàtica</li>
-            <li>Sense permanència</li>
-            <li>Tria router (opcional)</li>
+            <li style="margin-left: 0">1000 Mbps simètrics</li>
+            <li style="margin-left: 0">IP estàtica</li>
+            <li style="margin-left: 0">Sense permanència</li>
+            <li style="margin-left: 0">Tria router (opcional)</li>
         </ul>
         <br><small>Alta 1500€. Inclou instal·lació i router. Velocitat fins a 1000 Mbps.</small>
         <br>
@@ -52,10 +51,10 @@ aliases:
         <br>
         <br>
          <ul style="list-style: none;">
-            <li>50 Mbps</li>
-            <li>IP estàtica</li>
-            <li>Sense permanència</li>
-            <li>Tria router (opcional)</li>
+            <li style="margin-left: 0">50 Mbps</li>
+            <li style="margin-left: 0">IP estàtica</li>
+            <li style="margin-left: 0">Sense permanència</li>
+            <li style="margin-left: 0">Tria router (opcional)</li>
         </ul>
         <br><small>Instal·lació i router NO inclosos. Velocitat fins a 50 Mbps.</small>
         <br>
@@ -140,3 +139,5 @@ En els llocs on no hi ha xarxa guifi.net podem oferir fibra mitjançant bitstrea
 Tenim cobertura de fibra òptica a tot Catalunya, incloent les següents problacions del Bages:
 
 Artés, Avinyó, Balsareny, Callús, Cardona, Castellbell i el Vilar, Castellfollit del Boix, Castellgalí, Castellnou de Bages, Fonollosa, Manresa, Monistrol de Montserrat, Navarcles, Navàs, El Pont de Vilomara i Rocafort, Sallent, Sant Feliu Sasserra, Sant Fruitós de Bages, Sant Joan de Vilatorrada, Sant Mateu de Bages, Sant Salvador de Guardiola, Sant Vicenç de Castellet, Santpedor, Súria.
+
+Si vols saber si hi ha cobertura a casa teva, envia'ns la teva adreça a [info@guifibages.cat](mailto:info@guifibages.cat) i t'informarem.

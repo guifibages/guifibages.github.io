@@ -6,8 +6,8 @@ $white-offset: {{ .Site.Params.colors.white_offset | default "#f6f7ff" }};
 $grey: {{ .Site.Params.colors.grey | default "#5C5A5A" }};
 
 // Fonts
-$font-family-base: {{ .Site.Params.fonts.base }}, Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: {{ .Site.Params.fonts.base }}, Helvetica, Arial, sans-serif, -apple-system;
+$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
+$font-family-heading: Helvetica, Arial, sans-serif, -apple-system;
 
 // Links
 $link-color: $primary;
