@@ -22,7 +22,7 @@ aliases:
             <li style="margin-left: 0">Sense permanència</li>
             <li style="margin-left: 0">Tria router (opcional)</li>
         </ul>
-        <br><small>Alta 181.5€. Inclou instal·lació i router. Velocitat fins a 1000 Mbps.</small>
+        <br><small><b>Alta gratuïta</b>. Inclou instal·lació i router. Velocitat fins a 1000 Mbps.</small>
         <br>
       </div>
     </div>
