@@ -26,7 +26,7 @@ Si tens dubtes entre varis supernodes, encara l'antena cap cadascún d'ells i es
 ## 4. Disposar d'una Antena a 5GHz
 Un cop asegurada la visió directe a un supernode, ens caldrá una antena especial. Actualment la xarxa guifibages funciona a 5GHz, es aquesta la raó per la cual amb un portatil convencional (que van 2,4GHz) no es troba el senyal de guifibages.
 
-Les antenes amb les que treballem son de la marca [Ubiquiti](http://ubnt.com) o bé [Mikrotik](http://www.mikrotik.com). Cal verificar prèviament quina marca utilitza el supernode on us voleu conectar ja que si l'antena no és de la mateixa marca, no funcionarà. Això ho podeu fer enviant un correu a [llista d'usuaris del Bages de la xarxa guifi.net](mailto:guifi-bagesusers@llistes.guifi.net). Tot i això, la majoria de supernodes utilitzen tec nologia Ubiquiti i nosaltres recomanem els següents models: [Nanobeam-M5-19](https://www.ubnt.com/airmax/nanobeamm/) i [Powerbeam-M5-300 i Powerbeam-M5-400](https://www.ubnt.com/airmax/powerbeam/).
+Les antenes amb les que treballem son de la marca [Ubiquiti](http://ubnt.com) o bé [Mikrotik](http://www.mikrotik.com). Cal verificar prèviament quina marca utilitza el supernode on us voleu conectar ja que si l'antena no és de la mateixa marca, no funcionarà. Això ho podeu fer enviant un correu a [info@guifibages.cat](mailto:info@guifibages.cat). Tot i això, la majoria de supernodes utilitzen tec nologia Ubiquiti i nosaltres recomanem els següents models: [Nanobeam-M5-19](https://www.ubnt.com/airmax/nanobeamm/) i [Powerbeam-M5-300 i Powerbeam-M5-400](https://www.ubnt.com/airmax/powerbeam/).
 
 Pots comprar-les a:
 
@@ -42,4 +42,4 @@ Recomenem muntar l'antena al mastil de l'antena de televisió i com més amunt m
 
 La potència de l'antena s'ha posar sempre al mínim que permeti una bona connexió. Configurar l'antena per a què emeti a potències excessives, no únicament perjudica als altres usuaris, sinó que pot empitjorar notablement la qualitat de la nostra connexió.
 
-Si tens dubtes, posa't en [contacte](/contacte/) amb nosaltres o bé envia la teva pregunta a la [llista d'usuaris del Bages de la xarxa guifi.net](mailto:guifi-bagesusers@llistes.guifi.net) i segur que d'altres usuaris t'ajudaran a connectar-te a la xarxa.
+Si tens dubtes, posa't en [contacte](/contacte/) amb nosaltres i segur que d'altres usuaris t'ajudaran a connectar-te a la xarxa.

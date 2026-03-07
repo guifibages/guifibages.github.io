@@ -103,7 +103,7 @@ I tampoc no hi ha cap persona contractada per atendre els usuaris. Entre tots el
 
 ### Velocitat 1Gbps
 
-No limitem la velocitat, oferim tant com doni de sí la xarxa. Normalment el màxim que obtindràs serà d'1Gbps. Aquesta velocitat és a compartir per tothom en el teu tram de xarxa. Així doncs, en moments de màxima afluència, com per exemple al vespre, la velocitat pot ser de 800Mbps.
+No limitem la velocitat, oferim tant com doni de sí la xarxa. Normalment el màxim que obtindràs serà d'1Gbps. Aquesta velocitat és a compartir per tothom en el teu tram de xarxa. Així doncs, en moments de màxima afluència, com per exemple al vespre, la velocitat pot ser de 600Mbps.
 
 ### Tota la informació tècnica i de gestió
 
@@ -124,7 +124,7 @@ La tarifa només inclou la connexió a Internet. No hi ha serveis extres.
 
 Telèfon fix. No oferim aquest servei. Però et podem explicar com configurar-lo en el teu router i gestionar-lo tu mateix, és molt senzill!
 
-Packs de mòbil, TV, etc. No oferim packs de serveis. Sol se més econòmic contractar-los per separat.
+Packs de mòbil, TV, etc. No oferim packs de serveis. Sol ser més econòmic contractar-los per separat.
 
 
 ### Quina diferència hi ha entre la fibra guifi.net i la fibra bitstream?
