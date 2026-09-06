@@ -1,0 +1,13 @@
+content: |
+    <a style="color: #000b;" href="/tarifes/">
+        <div style="text-align: left; display: flex; flex-wrap: wrap; gap: 40px;">
+            <div>
+                <span style="font-size: 36px;">Fibra guifi.net 1Gb</span><br>
+                <span style="font-size: 48px; font-weight: bold;">9€</span> <span style="font-size: 22px">/ mes</span>
+            </div>
+            <div>
+                <span style="font-size: 36px;">Fibra bitstream 1Gb</span><br>
+                <span style="font-size: 48px; font-weight: bold;">27€</span> <span style="font-size: 22px">/ mes</span><br>
+            </div>
+        </div>
+    </a>

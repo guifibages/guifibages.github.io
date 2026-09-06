@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "Sobre nosaltres"
+# layout: default
+# title: "Sobre nosaltres"
 ---
 
 ## Qui som?
