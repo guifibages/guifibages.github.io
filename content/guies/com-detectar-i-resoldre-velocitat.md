@@ -18,14 +18,14 @@ Hi ha diversos elements que poden influir en el mesurament del test de velocitat
 
 **1. El tipus de connexió utilitzada**
 
-L'elecció entre Wi-Fi o cable Ethernet pot marcar una gran diferència en els resultats del test. El cable Ethernet ofereix una connexió directa i estable, amb velocitats màximes més constants. **És el mètode recomenat per fer tests de velocitat.**
+L'elecció entre Wi-Fi o cable Ethernet pot marcar una gran diferència en els resultats del test. El cable Ethernet ofereix una connexió directa i estable, amb velocitats màximes més constants. **És el mètode recomanat per fer tests de velocitat.**
 
-La connexió Wi-Fi es pot veure afectada per interferències, la distància entre el dispositiu i el router i la freqüència utilizada (2.4GHz o 5GHz). Si fas el test de velocitat per Wi-Fi, assegura't d'utilizar el punt d'accés 5GHz i d'estar a 1 metre de distància del router. 
+La connexió Wi-Fi es pot veure afectada per interferències, la distància entre el dispositiu i el router i la freqüència utilitzada (2,4 GHz o 5 GHz). Si fas el test de velocitat per Wi-Fi, assegura't d'utilizar el punt d'accés 5GHz i d'estar a 1 metre de distància del router.
 
 **2. L'horari en què es faci la prova**
 
-En moments de màxima afluència, com per exemple al vespre, la velocitat màxima pot ser de 600Mbps
+En moments de màxima afluència, com per exemple al vespre, la velocitat màxima pot ser de 600 Mbps.
 
-**3. El servidor contra el que es fa el test de velocitat**
+**3. El servidor contra el qual es fa el test de velocitat**
 
 La distància entre el router de capçalera i el servidor de proves, així com el nivell de congestió del mateix servidor, poden afectar el resultat. Assegura't d'utilitzar un servidor que es trobi a Barcelona. Si un dels servidors dóna una velocitat baixa, prova'n un altre.
