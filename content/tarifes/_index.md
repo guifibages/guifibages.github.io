@@ -29,7 +29,7 @@ aliases:
     <div style="border: 4px solid #eee; margin: 10px; margin-top: 35px;">
       <div style="display: block; width: 280px; padding: 23px;">
         <span style="font-size: 28px;">Fibra guifi.net</span><br>
-        <span style="font-size: 48px; font-weight: bold;">9€</span> <span style="font-size: 22px">/ mes</span>
+        <span style="font-size: 48px; font-weight: bold;">11€</span> <span style="font-size: 22px">/ mes</span>
         <br>
         <br>
         <ul style="list-style: none;">
@@ -38,7 +38,7 @@ aliases:
             <li style="margin-left: 0">Sense permanència</li>
             <li style="margin-left: 0">Tria router (opcional)</li>
         </ul>
-        <br><small>Alta 1500€. Inclou instal·lació i router. Velocitat fins a 1000 Mbps.</small>
+        <br><small>Alta 150€. Inclou instal·lació i router. Velocitat fins a 1000 Mbps.</small>
         <br>
         <br><small>* Només disponible en xarxa de <a href="https://fundacio.guifi.net/en_US/page/page-projectes-guifi">guifi.net</a>. <a href="#quina-diferència-hi-ha-entre-la-fibra-guifinet-i-la-fibra-bitstream"> Més informació</a></small>
         <br>
